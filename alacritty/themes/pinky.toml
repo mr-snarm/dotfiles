@@ -1,0 +1,74 @@
+[colors.primary]
+	foreground = "#ffa3ef"
+	#foreground = "#fdb2e7"
+	bright_foreground = "#f24ab8"
+[colors.normal]
+	red = 		"#ff8ea1"
+	green = 	"#b7ffdb"
+	yellow = 	"#fefbb1"
+	blue = 		"#86d8f7"
+	magenta = 	"#f784d7"
+	cyan = 		"#80fff9"
+	white = 	"#f9b8d2"
+[colors.dim]
+	red = 		"#b30000"
+	green = 	"#66a99a"
+	yellow =	"#fefbb1"
+	blue = 		"#005fa2"
+	magenta =	"#ab149e"
+	cyan =		"#007268"
+	white =		"#f24ab8"
+[colors.bright]
+    	red = 		"#ff657b"
+    	green = 	"#6dffcd"
+    	yellow = 	"#fffb98"
+    	blue = 		"#51a9ff"
+    	magenta = 	"#ff89eb"
+    	cyan = 		"#3cfffb"
+    	white = 	"#ff7ac6"
+[colors]
+	cursor = { text = "#000000", background = "#fefbb1"}
+	vi_mode_cursor = { text = "#000000", background = "#fefbb1"}
+	selection = { text = "#000000", background  = "#80fff9" }
+[window]
+	opacity = 0.95
+
+# fonts
+# Monospace
+# MS Gothic
+
+#
+# COLOR PALETTES
+#
+
+# full palette
+# CURSOR:	#fefbb1		"Parchment"
+# WHITE:	#f9b8d2		"Pink Marshmallow"
+# RED:		#ff8ea1		"Rock'n'Rose"
+# DARK RED:	#b30000		"Harlock's Cape"
+# GREEN:	#b7ffdb		"Mintastic"
+# DARK GREEN:	#004d40		"Tropical Forest"
+# YELLOW:	#fefbb1		"Parchment"
+# DARK YELLOW:	#ad8d00		"Sunken Gold"
+# BLUE:		#86d8f7		"Light Sky Blue"
+# DARK BLUE:	#005fa2		"Hyper Blue"
+# MAGENTA:	#f784d7		"Shimmering Love"
+# DARK MAGENTA:	#ab149e		"Magentle"
+# CYAN:		#80fff9		"Electric Blue"
+# DARK CYAN:	#00b8a9		"Billiard"
+# WHITE:	#f9b8d2		"Pink Marshmallow"
+# LIGHT GREY:	#d7267e		"Mystic Magenta"
+
+# pinkie pie color palete
+# #f9b8d2 - light pink
+# #f0438c - deep pink
+# #86d8f7 - light blue
+# #fefbb1 - yellow
+# #ffffff - white (duh)
+
+# pink white color palette
+# #ffffff - white (again)
+# #fdb2e7 - lightest pink
+# #fb93d7 - medium dark pink
+# #ee61bd - medium light pink
+# #f24ab8 - darkest pink

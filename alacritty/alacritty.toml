@@ -1,0 +1,9 @@
+import = [ "~/.config/alacritty/themes/magentathunder.toml" ]
+#import = [ "~/.config/alacritty/themes/pinky.toml" ]
+[font]
+	normal = { family = "Monospace", style = "Regular" }
+	bold = { family = "Monospace", style = "Bold" }
+	italic = { family = "Monospace", style = "Italic" }
+	bold_italic = { family = "Monospace", style = "Bold Italic" }
+	size = 9
+

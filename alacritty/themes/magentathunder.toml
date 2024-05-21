@@ -1,0 +1,35 @@
+[colors.primary]
+    foreground = 		"#ff70ff"  # Magenta
+    bright_foreground = 	"#f24ab8"  # Magenta, but bright version
+[colors.normal]
+    red = 			"#ff3300"  # Light neon orange
+    green = 			"#00ff00"  # Neon green
+    yellow = 			"#ffff00"  # Yellow
+    blue = 			"#3366ff"  # Lighter blue
+    magenta = 			"#ff00ff"  # Magenta, again
+    cyan = 			"#00ffff"  # Cyan
+    white = 			"#ffffff"  # White
+
+[colors.dim]
+    red = 			"#481f00"  # Darker neon orange
+    green = 			"#66ff66"  # Lime green
+    yellow = 			"#ffff66"  # Light yellow
+    blue = 			"#6666cc"  # Medium blue
+    magenta = 			"#bebebe"  # Darker magenta
+    cyan= 			"#009998"  # Teal
+    white = 			"#ff66ff"  # Bright pink
+
+[colors.bright]
+    red = 			"#ff8000"  # Lighter neon orange
+    green = 			"#99ff99"  # Light green
+    yellow = 			"#ffff99"  # Pale yellow
+    blue = 			"#9999ff"  # Lighter cyberpunky blue
+    magenta = 			"#f24ab8"  # Magenta, but bright version again
+    cyan = 			"#33cccc"  # Aqua
+    white = 			"#ff99ff"  # Lavender pink
+[colors]
+	cursor = { 		text = "#000000", background = "#33cccc" }
+	vi_mode_cursor = { 	text = "#000000", background = "#fefbb1" }
+	selection = { 		text = "#000000", background  = "#80fff9" }
+[window]
+	opacity = 0.95
